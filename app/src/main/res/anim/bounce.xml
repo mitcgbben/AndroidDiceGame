@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:interpolator="@android:anim/bounce_interpolator">
+    <!-- boioioing -->
+
+    <translate xmlns:android="http://schemas.android.com/apk/res/android"
+        android:fillAfter="false"
+        android:interpolator="@android:anim/accelerate_interpolator"
+        android:fromYDelta="-30%"
+        android:toYDelta="0%"/>
+
+
+</set>
